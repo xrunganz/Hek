@@ -12,3 +12,4 @@ $ python fbhek.py
 
 #note
 Gunakan secara bijak
+Jangan di salah gunakan
